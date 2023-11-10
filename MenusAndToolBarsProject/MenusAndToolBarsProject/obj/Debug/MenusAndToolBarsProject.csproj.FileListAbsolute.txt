@@ -1,0 +1,10 @@
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\bin\Debug\MenusAndToolBarsProject.exe.config
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\bin\Debug\MenusAndToolBarsProject.exe
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\bin\Debug\MenusAndToolBarsProject.pdb
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.Form1.resources
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.Properties.Resources.resources
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.exe
+C:\Users\berka\source\repos\MenusAndToolBarsProject\MenusAndToolBarsProject\obj\Debug\MenusAndToolBarsProject.pdb

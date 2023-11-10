@@ -1,0 +1,14 @@
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.exe
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.deps.json
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.dll
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.pdb
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.dll
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\refint\FirstConsoleApp.dll
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.pdb
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\berka\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\ref\FirstConsoleApp.dll
